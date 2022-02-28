@@ -1,1 +1,3 @@
-Presentacion proyecto Gatitos
+Presentacion proyecto Gatitosgit 
+
+Uso educativo
