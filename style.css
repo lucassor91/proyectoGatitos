@@ -23,7 +23,7 @@ footer{
     background-color: gray;
 }
 
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 320px){/*vista movil*/
 header div a{
     display: none;
     
@@ -46,6 +46,5 @@ h1:hover{
 
 p:hover{
     color: grey;
-    font-weight: bold;
     transition: 0s;
 }
